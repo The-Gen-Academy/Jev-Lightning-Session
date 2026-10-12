@@ -1,0 +1,157 @@
+[
+  {
+    "id": "return-policy",
+    "title": "Return policy overview",
+    "body": "Most items bought on ShopEasy can be returned within 30 days of delivery. Items should be in new, unused condition with all tags and accessories. Some items can't be returned, including final-sale items, gift cards and perishable goods. To start a return, go to Your Orders and select Return items."
+  },
+  {
+    "id": "start-return",
+    "title": "How to start a return",
+    "body": "Open Your Orders, find the order and select Return items. Choose the items and a reason, then pick a drop-off option: print a prepaid label, or show a QR code at any partner drop-off point. You'll get an email confirming your return was received."
+  },
+  {
+    "id": "return-shipping",
+    "title": "Return shipping costs",
+    "body": "Returns are free if the item arrived damaged, defective or was the wrong item, and always free for ShopEasy Plus members. For other returns, a $5.99 return shipping fee is deducted from your refund."
+  },
+  {
+    "id": "packing-return",
+    "title": "Packing your return",
+    "body": "Use the original shipping box if you still have it; otherwise any sturdy box works. Put the packing slip inside, seal the box with tape and stick the return label on the outside, covering any old labels. Don't send returns in envelopes - parcels can be damaged in transit."
+  },
+  {
+    "id": "opened-items",
+    "title": "Returning opened or used items",
+    "body": "You can return most items after opening them, as long as they're in like-new condition with all parts and accessories, within 30 days of delivery. A missing box is fine. Exceptions: earbuds and in-ear headphones, personal care products, and software or digital codes can't be returned once unsealed."
+  },
+  {
+    "id": "final-sale",
+    "title": "Final sale and clearance items",
+    "body": "Items marked Final Sale can't be returned or exchanged. Regular sale items, including Black Friday and seasonal deals, follow the standard 30-day return policy. When you return a discounted item, the refund is for the price you actually paid, not the original price."
+  },
+  {
+    "id": "holiday-returns",
+    "title": "Holiday return window",
+    "body": "Items bought between November 1 and December 31 can be returned until January 31 of the following year. This extended window covers sale items too, but not items marked Final Sale."
+  },
+  {
+    "id": "gift-returns",
+    "title": "Returning a gift",
+    "body": "If you received a ShopEasy gift, you can return it with the gift receipt or the order number. The refund is issued to you as ShopEasy store credit, not to the person who bought the gift, and they won't be notified about the return."
+  },
+  {
+    "id": "exchanges",
+    "title": "Exchanging an item",
+    "body": "Need a different size or colour? Choose Exchange instead of Return in Your Orders. We ship the replacement as soon as your return is scanned by the carrier, so you don't have to wait for it to reach our warehouse. Exchanges are free."
+  },
+  {
+    "id": "refund-methods",
+    "title": "How refunds are issued",
+    "body": "Once we've inspected your return, we send the money back to the original payment method. If you split the payment, each method gets back its share. Timing depends on the method: amounts paid with a ShopEasy gift card are restored to the card balance within 24 hours; credit and debit cards take 5-10 business days depending on your bank; PayPal takes 3-5 business days."
+  },
+  {
+    "id": "refund-status",
+    "title": "Where is my refund?",
+    "body": "Returns are inspected within 2-3 days of reaching our warehouse, and we email you when the refund is sent. You can check progress on the return status page in Your Orders. If the refund was sent more than 10 business days ago and still hasn't appeared, contact your bank first, then reach out to us."
+  },
+  {
+    "id": "damaged-items",
+    "title": "Damaged or defective items",
+    "body": "If an item arrives broken or stops working within 30 days, report it in Your Orders within 7 days of noticing, with a photo. You can choose a free replacement or a full refund, and return shipping is on us."
+  },
+  {
+    "id": "wrong-item",
+    "title": "Received the wrong item",
+    "body": "If you got the wrong item, size or colour, report it in Your Orders. We'll send the correct item right away with a prepaid label to return the wrong one. You won't be charged for either shipment."
+  },
+  {
+    "id": "track-order",
+    "title": "Tracking your order",
+    "body": "Once your order ships you'll get an email with a tracking link. You can also see live tracking in Your Orders. Tracking can take up to 24 hours to show the first update after the label is created."
+  },
+  {
+    "id": "delayed-shipment",
+    "title": "Delayed shipments",
+    "body": "Bad weather, holidays and carrier backlogs can delay deliveries. If your order is more than 3 business days past its estimated delivery date, contact us and we'll either reship it or refund it."
+  },
+  {
+    "id": "missing-package",
+    "title": "Package marked delivered but missing",
+    "body": "If tracking says delivered but you can't find your package, check around your property, with neighbours and your building's mailroom. Carriers sometimes mark packages delivered early, so wait 48 hours. If it still hasn't turned up, contact us and we'll open a carrier investigation and send a replacement or refund."
+  },
+  {
+    "id": "shipping-options",
+    "title": "Shipping options and delivery times",
+    "body": "Standard shipping takes 3-5 business days and Express takes 1-2 business days. Same-day delivery is available in selected cities for orders placed before noon. Delivery estimates are shown at checkout."
+  },
+  {
+    "id": "free-shipping",
+    "title": "Free shipping",
+    "body": "Standard shipping is free on orders over $35. ShopEasy Plus members get free Express shipping on every order, with no minimum."
+  },
+  {
+    "id": "change-address",
+    "title": "Changing your shipping address",
+    "body": "You can change the delivery address in Your Orders until the order ships. After it ships, you can ask the carrier to redirect it using the tracking link, though not every carrier supports this."
+  },
+  {
+    "id": "cancel-order",
+    "title": "Cancelling an order",
+    "body": "You can cancel an order in Your Orders until it ships. Once it has shipped, you'll need to wait for it to arrive and return it instead. Cancelled orders are refunded to the original payment method."
+  },
+  {
+    "id": "international-shipping",
+    "title": "International shipping",
+    "body": "ShopEasy ships to over 40 countries. Import duties and taxes are calculated at checkout so there are no surprise fees on delivery. International delivery usually takes 7-14 business days."
+  },
+  {
+    "id": "payment-methods",
+    "title": "Accepted payment methods",
+    "body": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay and ShopEasy gift cards. You can split a payment between a gift card and one other method at checkout."
+  },
+  {
+    "id": "gift-cards",
+    "title": "Buying and using ShopEasy gift cards",
+    "body": "ShopEasy gift cards come in digital and physical versions from $10 to $500 and never expire. Enter the gift card code at checkout to apply it, and check your balance under Account > Gift cards. Gift cards can't be exchanged for cash."
+  },
+  {
+    "id": "promo-codes",
+    "title": "Using promo codes",
+    "body": "Enter a promo code at checkout before paying. Only one promo code can be used per order, and codes can't be applied to gift cards or Final Sale items. If a code doesn't work, check its expiry date and minimum spend."
+  },
+  {
+    "id": "price-drop",
+    "title": "Price drop protection",
+    "body": "If something you bought on ShopEasy gets cheaper on our site within 14 days of delivery, we'll refund the difference. Go to Your Orders and select Request price adjustment on the item. Lightning deals and clearance prices aren't eligible."
+  },
+  {
+    "id": "price-match",
+    "title": "Price matching",
+    "body": "Found a lower price at another major retailer? Contact us before you buy and we'll match it, as long as the item is identical and in stock at the other store. We don't match prices from marketplace sellers, auction sites or membership-only stores."
+  },
+  {
+    "id": "duplicate-charge",
+    "title": "Charged twice for one order",
+    "body": "A second charge is often a temporary authorisation hold that your bank releases within 3-5 business days. If both charges are still there after 5 days, contact us with your order number and we'll refund the duplicate."
+  },
+  {
+    "id": "payment-declined",
+    "title": "Payment declined",
+    "body": "Payments are usually declined because of a typo in the card details, a billing address that doesn't match your bank's records, or a bank fraud check. Double-check your details or try another payment method. Your bank can tell you the exact reason."
+  },
+  {
+    "id": "plus-membership",
+    "title": "ShopEasy Plus membership",
+    "body": "ShopEasy Plus costs $9.99 a month and includes free Express shipping, free returns and early access to sales. You can cancel anytime under Account > Membership, and you keep the benefits until the end of the billing period."
+  },
+  {
+    "id": "password-reset",
+    "title": "Resetting your password",
+    "body": "Select Forgot password on the sign-in page and we'll email you a reset link that works for 1 hour. If the email doesn't arrive, check your spam folder and make sure you're using the email address on your account."
+  },
+  {
+    "id": "account-security",
+    "title": "Keeping your account secure",
+    "body": "Turn on two-step verification under Account > Security. ShopEasy will never ask for your password by phone or email. If you see an order or password change you didn't make, reset your password immediately and contact us."
+  }
+]

@@ -1,0 +1,20 @@
+[project]
+name = "jev-tutorial"
+version = "0.1.0"
+description = "Tutorial notebook: Jev's Choice, Score and Noul on a ShopEasy support bot"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-core>=1.6.9",
+    "langchain-openai>=1.7.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "pydantic>=2.14.0",
+    "python-dotenv>=1.2.4",
+    "typesafe-sdk>=0.7.4",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]
